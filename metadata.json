@@ -1,0 +1,6 @@
+{
+  "name": "AutoTyper Keyboard",
+  "description": "Android Studio Kotlin project generator, complete IME source code viewer, and interactive keyboard simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
